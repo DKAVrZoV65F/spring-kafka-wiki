@@ -1,4 +1,4 @@
-package com.seryozha.springboot.config;
+package com.seryozha.springboot.springboot.config;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;

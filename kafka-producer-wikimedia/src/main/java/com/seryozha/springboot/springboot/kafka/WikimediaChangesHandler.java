@@ -1,4 +1,4 @@
-package com.seryozha.springboot.kafka;
+package com.seryozha.springboot.springboot.kafka;
 
 import com.launchdarkly.eventsource.MessageEvent;
 import com.launchdarkly.eventsource.background.BackgroundEventHandler;

@@ -1,6 +1,6 @@
-package com.seryozha.springboot;
+package com.seryozha.springboot.springboot;
 
-import com.seryozha.springboot.kafka.WikimediaChangesProducer;
+import com.seryozha.springboot.springboot.kafka.WikimediaChangesProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
